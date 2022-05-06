@@ -1,1 +1,1 @@
-# Normal_Distribution
+# Statistics & Econometrics analysis
