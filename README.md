@@ -1,1 +1,1 @@
-# Statistics & Econometrics analysis
+# Statistics Analysis
