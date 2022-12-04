@@ -2,7 +2,7 @@
 
 Using Python as the main language for analysis
 
-## Built and Tested with
+## Tested with
 
 [![Python][Python.com]][Python-url]
 
