@@ -1,4 +1,4 @@
-# Statistics and Econometrics
+# Statistics, Econometrics and Machine Learning
 
 Using Python as the main language for analysis
 
